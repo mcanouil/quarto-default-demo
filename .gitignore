@@ -1,0 +1,3 @@
+/.quarto/
+outputs/
+*_files/ # if Quarto crashed, it may leave behind a directory with this name
